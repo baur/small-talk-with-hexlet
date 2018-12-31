@@ -1,0 +1,16 @@
+{
+    "name": "baur/small-talk-with-hexlet",
+    "description": "Small talk with Hexlet",
+    "license": "MIT",
+    "bin":[
+	    "./sayhi",
+	    "./sayBye"
+    ],
+    "authors": [
+        {
+            "name": "baur114",
+            "email": "baurdotnet@gmail.com"
+        }
+    ],
+    "require": {}
+}
