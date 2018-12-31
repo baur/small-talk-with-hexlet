@@ -2,8 +2,8 @@
     "name": "baur/small-talk-with-hexlet",
     "description": "Small talk with Hexlet",
     "license": "MIT",
-    "bin":[
-	    "./sayhi",
+    "bin": [
+	    "./sayHi",
 	    "./sayBye"
     ],
     "authors": [
